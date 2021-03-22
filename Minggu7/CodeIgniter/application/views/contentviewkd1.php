@@ -1,0 +1,1 @@
+<p>Contoh Penerapan multiple view yang di panggil dari satu controller</p>
